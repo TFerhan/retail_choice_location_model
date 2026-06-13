@@ -1,0 +1,1 @@
+# retail_choice_location_model
