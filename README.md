@@ -14,7 +14,7 @@ The project combines spatial data processing, demand allocation modeling, Bayesi
 ### Bayesian Inference (PyMC)
 - Model estimation using PyMC
 - Posterior analysis and parameter interpretation
-- MCMC diagnostics and convergence checks
+- ADVI diagnostics and convergence checks
 
 ### Data Collection
 - Web scraping scripts for retail store information
