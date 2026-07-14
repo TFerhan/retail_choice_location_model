@@ -1,6 +1,6 @@
 # Retail Choice & Location Model – Supporting Code for End of Studies Project Report
 
-This repository contains the final report (final thesis) of my internship (in french) and the codebase supporting the final-year project (PFE) on **retail location analysis and consumer store choice modeling**.
+This repository contains the **Final Report (final thesis) of my internship** (in french) and the codebase supporting the final-year project (PFE) on **retail location analysis and consumer store choice modeling**.
 
 The project combines spatial data processing, demand allocation modeling, Bayesian inference, and geospatial analytics to estimate how consumer expenditure is distributed across competing retail stores.
 
